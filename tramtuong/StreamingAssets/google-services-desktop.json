@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "548972318801-il05ofih4jr30nsi4cjl66a424rqsk9s.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ag493nlteK1SgiSEAP2xBZm4IorRxpM"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:548972318801:ios:05ec241cf70add61be2870", 
+        "android_client_info": {
+          "package_name": "com.xmobitea.chinesechess"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "chinese-chess-online-e9f86.appspot.com", 
+    "project_id": "chinese-chess-online-e9f86", 
+    "firebase_url": "https://chinese-chess-online-e9f86.firebaseio.com", 
+    "project_number": "548972318801"
+  }
+}
