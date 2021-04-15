@@ -1,13 +1,15 @@
-[
-	{
-		"BundleId": "com.xmobitea.chinesechess",
-		"AppleId": "1548967679",
-		"IconUrl": "https://xmobitea.com/public/tramtuong/icon.png",
-		"ShortAppNameIOS": "1548967679",
-		"Name": {
-			"Vietnamese": "Trảm Tướng Online",
-			"English": "Tram Tuong Online",
-			"Chinese": "Tram Tuong Online"
+{
+	"Items": [
+		{
+			"BundleId": "com.xmobitea.chinesechess",
+			"AppleId": "1548967679",
+			"IconUrl": "https://xmobitea.com/public/tramtuong/icon.png",
+			"ShortAppNameIOS": "1548967679",
+			"Name": {
+				"Vietnamese": "Trảm Tướng Online",
+				"English": "Tram Tuong Online",
+				"Chinese": "Tram Tuong Online"
+			}
 		}
-	}
-]
+	]
+}
