@@ -1,7 +1,7 @@
 {
 "companyName": "XmobiTea Family",
 "productName": "Tram Tuong - Co Tuong Co Up",
-"productVersion": "1.0.1",
+"productVersion": "1.0.9",
 "dataUrl": "WebGl.data.unityweb",
 "wasmCodeUrl": "WebGl.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGl.wasm.framework.unityweb",

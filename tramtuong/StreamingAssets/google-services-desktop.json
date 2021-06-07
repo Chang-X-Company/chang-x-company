@@ -1,37 +1,49 @@
 {
+  "project_info": {
+    "project_number": "548972318801",
+    "firebase_url": "https://chinese-chess-online-e9f86.firebaseio.com",
+    "project_id": "chinese-chess-online-e9f86",
+    "storage_bucket": "chinese-chess-online-e9f86.appspot.com"
+  },
   "client": [
     {
-      "services": {
-        "appinvite_service": {
-          "status": 1
-        }, 
-        "analytics_service": {
-          "status": 0
-        }
-      }, 
-      "oauth_client": [
-        {
-          "client_id": "548972318801-il05ofih4jr30nsi4cjl66a424rqsk9s.apps.googleusercontent.com"
-        }
-      ], 
-      "api_key": [
-        {
-          "current_key": "AIzaSyB8Ag493nlteK1SgiSEAP2xBZm4IorRxpM"
-        }
-      ], 
       "client_info": {
-        "mobilesdk_app_id": "1:548972318801:ios:05ec241cf70add61be2870", 
+        "mobilesdk_app_id": "1:548972318801:android:7d5fa2b00424c772be2870",
         "android_client_info": {
           "package_name": "com.xmobitea.chinesechess"
         }
-      }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548972318801-4adht4gdvqqaah98ov9k7tpj0qdcile8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpjLgAiRbic8oDPv89Tpveap-r05qwvwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548972318801-4adht4gdvqqaah98ov9k7tpj0qdcile8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "548972318801-il05ofih4jr30nsi4cjl66a424rqsk9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xmobitea.chinesechess",
+                "app_store_id": "1548967679"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7609234017529225~6562760571"
     }
-  ], 
-  "configuration_version": "1", 
-  "project_info": {
-    "storage_bucket": "chinese-chess-online-e9f86.appspot.com", 
-    "project_id": "chinese-chess-online-e9f86", 
-    "firebase_url": "https://chinese-chess-online-e9f86.firebaseio.com", 
-    "project_number": "548972318801"
-  }
+  ],
+  "configuration_version": "1"
 }
